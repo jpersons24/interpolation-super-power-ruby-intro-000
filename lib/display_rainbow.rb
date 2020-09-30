@@ -11,5 +11,3 @@ puts "Name: #{stefani[0]}, Age: #{stefani[1]}, Occupation: #{stefani[2]}"
 def print_business_card(person)
   puts "Name: #{person[0]}, Age: #{person[2]}, Occupation: #{person{3}}"
 end
-
-print_business_card(bob)
